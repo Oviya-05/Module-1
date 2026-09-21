@@ -11,19 +11,15 @@ To write a Python program to print the following integer literals: 123, 456, 789
 
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
-# Write your code here
+# Reg.No- 212223060191
+# Name- Oviya K P
+men_stepped_on_the_moon = int(input())
+print(men_stepped_on_the_moon)
 
-num1 = 123
-num2 = 456
-num3 = 789
-
-print(num1)
-print(num2)
-print(num3)
 
 ```
 ## OUTPUT
+<img width="405" height="181" alt="image" src="https://github.com/user-attachments/assets/366a2c30-7e15-4b57-91e2-a6d657245265" />
 
 ## RESULT
+Thus, the python program to print the integer literals were executed successfully.
